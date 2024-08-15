@@ -13,6 +13,5 @@ if [ -f "requiremements.txt" ]; then
 fi
 
 
-
 # Run tests
-pytest
+pytest -vv
